@@ -16,3 +16,8 @@
 - 地址: 哈尔滨经开区哈平路集中区大连北路与兴凯路交口处
 - 电话: 0451-51051507
 - 账号: 167732145620
+
+
+## ERP
+
+### [BOM(Bill of Material)](https://en.wikipedia.org/wiki/Bill_of_materials)CN:https://baike.baidu.com/item/BOM%E8%A1%A8/7549010?fr=aladdin
